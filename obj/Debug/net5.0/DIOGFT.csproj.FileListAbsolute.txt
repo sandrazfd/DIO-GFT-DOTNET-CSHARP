@@ -1,0 +1,16 @@
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\DIOGFT.exe
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\DIOGFT.deps.json
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\DIOGFT.runtimeconfig.json
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\DIOGFT.runtimeconfig.dev.json
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\DIOGFT.dll
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\ref\DIOGFT.dll
+C:\Users\sandr\DIOGFT\bin\Debug\net5.0\DIOGFT.pdb
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.csproj.AssemblyReference.cache
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.AssemblyInfoInputs.cache
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.AssemblyInfo.cs
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.csproj.CoreCompileInputs.cache
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.dll
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\ref\DIOGFT.dll
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.pdb
+C:\Users\sandr\DIOGFT\obj\Debug\net5.0\DIOGFT.genruntimeconfig.cache
